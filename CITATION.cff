@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived software release and the associated article."
+title: "Gas-Mediated Droplet Mobility: MATLAB Modelling Software"
+type: software
+authors:
+  - family-names: Azadi
+    given-names: Reza
+    orcid: "https://orcid.org/0000-0003-1090-1518"
+version: 1.0.0
+date-released: 2026-10-27
+repository-code: "https://github.com/RA-Fluid/gas-mediated-droplet-mobility"
+license: BSD-3-Clause
