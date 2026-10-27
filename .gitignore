@@ -1,0 +1,55 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated files and folders
+slprj/
+sccprj/
+codegen/
+*.mex*
+*.slxc
+
+# MATLAB project metadata and local settings
+*.prj
+*.mlproj
+*.mldatx
+*.mlsettings
+
+# Temporary and backup files
+*~
+*.bak
+*.tmp
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary processing folders
+temp/
+tmp/
+
+# Regenerable model-output folders
+output/
+outputs/
+benchmark_output/
+BGK_benchmark_output/
+
+# Regenerable solver caches
+*_cache.mat
+kineticTable*.mat
+*ResponseTable*.mat
+
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
